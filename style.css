@@ -1,0 +1,99 @@
+.color{
+        background-color: rgb(22, 22, 22);
+}
+.liner{
+        align-items: center;
+}
+
+.img-logo{
+        width: 200px;
+        height: 100px;
+}
+.titulo{
+        color:rgba(124, 0, 0, 0.664);
+        text-shadow: 2px 2px 3px rgb(22, 22, 22);
+        padding-right: 7px ;
+}
+.detal:hover{
+        cursor: default;
+}
+.imagem-do-carrossel{
+        object-fit: cover;
+        height: 500px;
+}
+.especial{
+        color: rgba(255, 255, 255, 0.466);
+        text-decoration: underline darkred;
+        text-shadow: 3px 3px 5px black;
+}
+.efeito{
+        font-family: 'IM Fell English SC', serif;
+        font-size: 25px;
+        text-shadow: 3px 3px 5px black;
+        
+}
+.banner1{
+        width: 100%;
+        height: 100%;
+        border: 1px solid darkred;
+        box-shadow: 8px 8px 10px black; 
+}
+.textos{
+        color: darkgray;
+        font-size: 20px;
+        text-shadow: 3px 3px 5px rgba(92, 0, 0, 0.678);
+        text-align: center;
+}
+#link{
+        color: darkred;
+        font-size: 18px;
+}
+#link:hover{
+        color: darkred;
+}
+.copyright{
+        color: whitesmoke;
+        text-align: center;
+}
+.linerfooter{
+        align-items: center;
+}
+#bg{
+        background-color: rgb(22, 22, 22);
+}
+#close{
+        background-color: rgb(105, 0, 0);
+}
+#close:hover{
+        background-color: darkred;
+        box-shadow: 1px 1px 2px white;
+}
+#titulos{
+        color: rgba(255, 255, 255, 0.466);
+
+}
+#bord:focus{
+        border: 2px solid rgb(105, 0, 0);
+        border-radius: 5px;
+        box-shadow: 1px 1px 2px darkred;
+}
+#fechar{
+        background-color: gray;
+        color: black;
+        text-shadow: rgba(255, 255, 255, 0.568);
+}
+#fechar:hover{
+        
+        box-shadow: -2px -2px 3px darkred;
+        color: darkred;
+        background-color: rgb(167, 162, 162);
+        text-shadow: 1px 1px 1px black;
+}
+#enviar{
+        background-color: rgb(105, 0, 0);
+       color: whitesmoke;
+}
+#enviar:hover{
+        background-color: darkred;
+        box-shadow: 1px 1px 2px white;
+}
